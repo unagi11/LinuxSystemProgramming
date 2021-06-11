@@ -1,0 +1,24 @@
+You Inputed "2"
+Selected (2) Sequential Processing (Single Thread)
+How many generation do you want? 1
+Completed 1 Generation. [ Taken Time : 5 s 632608 us]
+
+You Inputed "4"
+Selected (4) Multi-thread Parallel Processing
+How many worker thread do you want? 3
+How many generation do you want? 1  
+divide work(number : 3) complete!
+Completed 1 Generation. [ Taken Time : 5 s 520217 us]
+
+
+You Inputed "3"
+Selected (3) Multi-process Parallel Processing
+How many worker process do you want? 1
+How many generation do you want? 5
+Completed 5 Generation. [ Taken Time : 0 s 3578 us]
+
+You Inputed "3"
+Selected (3) Multi-process Parallel Processing
+How many worker process do you want? 3
+How many generation do you want? 5
+Completed 5 Generation. [ Taken Time : 0 s 8319 us]
